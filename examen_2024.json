@@ -1,0 +1,1619 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Según el art. 55 de la Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad efectiva de mujeres y hombres, la aprobación de convocatorias de pruebas selectivas para el acceso al empleo público:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Deberá acompañarse de un informe de impacto de género, salvo en casos de urgencia o de las características de las plazas convocadas y siempre sin perjuicio de la prohibición de discriminación por razón de sexo."
+        },
+        {
+          "label": "b",
+          "text": "Podrá acompañarse de un informe de impacto de género, salvo en casos de urgencia y siempre sin perjuicio de la prohibición de discriminación por razón de sexo."
+        },
+        {
+          "label": "c",
+          "text": "Deberá acompañarse de un informe de impacto de género, incluso en casos de urgencia y siempre sin perjuicio de la prohibición de discriminación por razón de sexo."
+        },
+        {
+          "label": "d",
+          "text": "Deberá acompañarse de un informe de impacto de género, salvo en casos de urgencia y siempre sin perjuicio de la prohibición de discriminación por razón de sexo."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 2,
+      "stem": "Según el art. 46 de la Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad efectiva de mujeres y hombres, los planes de igualdad incluirán:",
+      "options": [
+        {
+          "label": "a",
+          "text": "A la totalidad de la empresa, no debiendo discriminarse con acciones especiales dirigidas a determinados centro de trabajo."
+        },
+        {
+          "label": "b",
+          "text": "A cada centro de trabajo, sin perjuicio del establecimiento de acciones generales para la totalidad de la empresa."
+        },
+        {
+          "label": "c",
+          "text": "A la totalidad de la empresa, sin perjuicio del establecimiento de acciones especiales adecuadas respecto a determinados centros de trabajo."
+        },
+        {
+          "label": "d",
+          "text": "Ninguna de las respuestas anteriores es correcta."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 3,
+      "stem": "El art. 18 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, indica que se inadmitirán a trámite, mediante resolución motivada, las solicitudes de acceso a la información pública:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Relativas a creencias religiosas o ideologías políticas de terceras personas."
+        },
+        {
+          "label": "b",
+          "text": "Relativas a datos que afecten a terceras personas."
+        },
+        {
+          "label": "c",
+          "text": "Relativas a datos acerca del origen racial, la salud o la vida sexual de terceras personas."
+        },
+        {
+          "label": "d",
+          "text": "Que se refieran a información que esté en curso de elaboración o de publicación general."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 4,
+      "stem": "Señale la afirmación FALSA en relación con lo establecido en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno sobre la reclamación ante el Consejo de Transparencia y Buen Gobierno:",
+      "options": [
+        {
+          "label": "a",
+          "text": "El plazo máximo para resolver y notificar la resolución será de tres meses, transcurrido el cual, la reclamación se entenderá estimada."
+        },
+        {
+          "label": "b",
+          "text": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+        },
+        {
+          "label": "c",
+          "text": "Las resoluciones del Consejo de Transparencia y Buen Gobierno se publicarán, previa disociación de los datos de carácter personal que contuvieran, por medios electrónicos y en los términos en que se establezca reglamentariamente, una vez se hayan notificado a los interesados."
+        },
+        {
+          "label": "d",
+          "text": "Frente a toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo y previo a su impugnación en vía contencioso-administrativo."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 5,
+      "stem": "El art. 12 de la Ley Orgánica 3/20018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales indica que el encargado:",
+      "options": [
+        {
+          "label": "a",
+          "text": "No podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos."
+        },
+        {
+          "label": "b",
+          "text": "Podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de los derechos solo si así se estableciere en el contrato que les vincule."
+        },
+        {
+          "label": "c",
+          "text": "Podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos solo si así se estableciere en el acto jurídico que les vincule."
+        },
+        {
+          "label": "d",
+          "text": "Podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos si así se estableciere en el contrato o acto jurídico que les vincule."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 6,
+      "stem": "Indica el art. 13 de la Ley Orgánica 3/20018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales que, a los efectos establecidos en el art. 12.5 del Reglamento (UE) 2016/679, se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "4 meses, a menos que exista causa legítima para ello."
+        },
+        {
+          "label": "b",
+          "text": "4 meses en todo caso."
+        },
+        {
+          "label": "c",
+          "text": "6 meses, a menos que exista causa legítima para ello."
+        },
+        {
+          "label": "d",
+          "text": "6 meses en todo caso."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 7,
+      "stem": "Los trabajadores, con arreglo a su formación y siguiendo las instrucciones del empresario, deberán en particular, según lo establecido en el art. 29 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales:",
+      "options": [
+        {
+          "label": "a",
+          "text": "No poner fuera de funcionamiento y utilizar correctamente los dispositivos de seguridad existentes."
+        },
+        {
+          "label": "b",
+          "text": "Informar en el plazo máximo de 48 horas a su superior jerárquico directo, y a los trabajadores designados para realizar actividades de protección y de prevención o, en su caso, al servicio de prevención, acerca de cualquier situación que, a su juicio, entrañe, por motivos razonables, un riesgo para la seguridad y la salud de los trabajadores."
+        },
+        {
+          "label": "c",
+          "text": "Cooperar con el servicio de prevención ajeno para que éste pueda garantizar unas condiciones de trabajo que sean seguras y no entrañen riesgos para la seguridad y la salud de los trabajadores."
+        },
+        {
+          "label": "d",
+          "text": "Todas las respuestas anteriores son correctas."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 8,
+      "stem": "¿Qué documentación NO deberá elaborar y conservar el empresario a disposición de la autoridad laboral, según lo establecido en el art. 23 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales:",
+      "options": [
+        {
+          "label": "a",
+          "text": "El Plan de prevención de riesgos laborales según lo establecido en la Ley 31/1995 de Prevención de Riesgos Laborales."
+        },
+        {
+          "label": "b",
+          "text": "La relación de accidentes de trabajo y enfermedades profesionales que hayan causado o no al trabajador una incapacidad laboral."
+        },
+        {
+          "label": "c",
+          "text": "La planificación de la actividad preventiva, incluidas las medidas de protección y de prevención a adoptar."
+        },
+        {
+          "label": "d",
+          "text": "Conclusiones obtenidas de los controles del estado de salud de los trabajadores previstos en el art. 22 de la Ley 31/1995, de 8 de noviembre."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 9,
+      "stem": "Teniendo en cuenta la actualización del art. 88 del Estatuto de la Universidad de León, la Junta de Facultad o Escuela estará compuesta por el Decano o Director, que la preside, el Secretario y, entre otros, los siguientes miembros:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Miembros del Personal docente e investigador con vinculación permanente a la Universidad, que impartan docencia en asignaturas de las Titulaciones Oficiales de la Facultas o Escuela y que así lo soliciten, los cuales representarán el 58% del total de sus componentes."
+        },
+        {
+          "label": "b",
+          "text": "Miembros del Personal docente e investigador con vinculación permanente a la Universidad, que impartan docencia en asignaturas de las Titulaciones Oficiales de la Facultas o Escuela y que así lo soliciten, los cuales representarán el 51% del total de sus componentes."
+        },
+        {
+          "label": "c",
+          "text": "Miembros del Personal docente e investigador con vinculación no permanente a la Universidad, que impartan docencia en asignaturas de las Titulaciones Oficiales de la Facultas o Escuela y que así lo soliciten, los cuales representarán el 25% del total de sus componentes."
+        },
+        {
+          "label": "d",
+          "text": "Miembros del Personal docente e investigador con vinculación no permanente a la Universidad, que impartan docencia en asignaturas de las Titulaciones Oficiales de la Facultas o Escuela y que así lo soliciten, los cuales representarán el 58% del total de sus componentes."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 10,
+      "stem": "¿Quién aprueba la Relación de Puestos de Trabajo del Personal Docente e Investigador según el art. 165 del Estatuto de la Universidad de León?",
+      "options": [
+        {
+          "label": "a",
+          "text": "El Consejo Social previo informe del Consejo de Gobierno y oídos los órganos de representación sindical y departamentos."
+        },
+        {
+          "label": "b",
+          "text": "El Consejo Social."
+        },
+        {
+          "label": "c",
+          "text": "El Consejo de Gobierno, previo informe de los departamentos y de los órganos de representación sindical."
+        },
+        {
+          "label": "d",
+          "text": "El Consejo de Gobierno, previo informe de los Centros y de los órganos de representación sindical."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 11,
+      "stem": "El art. 193 del Estatuto de la Universidad de León indica que:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Los estudiantes deberán elegir, en los dos primeros meses de cada año académico, delegado y subdelegado de curso entre los alumnos del mismo."
+        },
+        {
+          "label": "b",
+          "text": "Los estudiantes deberán elegir, en el primer mes de cada año académico, delegado y subdelegado de curso entre los alumnos del mismo."
+        },
+        {
+          "label": "c",
+          "text": "Los estudiantes deberán elegir, en el primer trimestre de cada año académico, delegado y subdelegado de curso entre los alumnos del mismo."
+        },
+        {
+          "label": "d",
+          "text": "Los estudiantes deberán elegir, en los 15 primeros días de cada año académico, delegado y subdelegado de curso entre los alumnos del mismo."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 12,
+      "stem": "El II Convenio Colectivo del Personal de Administración y Servicios Laboral de las Universidades Públicas de Castilla y León, establece en su art. 49 que:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Las faltas leves prescriben a los quince días, las graves a los treinta y las muy graves a los sesenta días a partir de la fecha de su comisión."
+        },
+        {
+          "label": "b",
+          "text": "Las faltas leves prescriben a los diez días, las graves a los veinte y las muy graves a los sesenta días a partir de la fecha de su comisión."
+        },
+        {
+          "label": "c",
+          "text": "Las faltas leves prescriben a los quince días, las graves a los treinta y las muy graves a los sesenta días a partir de la fecha en que la Universidad tuvo conocimiento de su comisión."
+        },
+        {
+          "label": "d",
+          "text": "Las faltas leves prescriben a los diez días, las graves a los veinte y las muy graves a los sesenta días a partir de la fecha en que la Universidad tuvo conocimiento de su comisión."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 13,
+      "stem": "¿Cuál de las siguientes NO es una falta grave, según el II Convenio Colectivo de PAS laboral de las Universidades Públicas de Castilla y León?",
+      "options": [
+        {
+          "label": "a",
+          "text": "La manifiesta insubordinación individual o colectiva."
+        },
+        {
+          "label": "b",
+          "text": "El abandono del trabajo sin causa justificada."
+        },
+        {
+          "label": "c",
+          "text": "La simulación de enfermedad o accidente."
+        },
+        {
+          "label": "d",
+          "text": "La utilización o difusión indebidas de datos o asuntos de los que se tenga conocimiento por razón del trabajo en la Universidad."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 14,
+      "stem": "Según el II Convenio Colectivo de PAS laboral de las Universidades Públicas de Castilla y León, la duración de la excedencia voluntaria:",
+      "options": [
+        {
+          "label": "a",
+          "text": "No será inferior a un año ni superior a tres años."
+        },
+        {
+          "label": "b",
+          "text": "No será inferior a dos años ni superior a tres años."
+        },
+        {
+          "label": "c",
+          "text": "No será inferior a dos años ni superior a cinco años."
+        },
+        {
+          "label": "d",
+          "text": "No será inferior a un año ni superior a cinco años."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 15,
+      "stem": "En el ámbito del CTE (código técnico de la edificación), indicar la pendiente mínima en % de una cubierta de teja mixta y plana monocanal:",
+      "options": [
+        {
+          "label": "a",
+          "text": "15%"
+        },
+        {
+          "label": "b",
+          "text": "20%"
+        },
+        {
+          "label": "c",
+          "text": "30%"
+        },
+        {
+          "label": "d",
+          "text": "35%"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 16,
+      "stem": "El documento básico HS del código técnico de la edificación (CTE), establece que el grado de impermeabilidad mínimo exigido a las fachadas frente a la penetración de las precipitaciones se obtiene en función de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "La zona pluviométrica de promedios y la inclinación de la fachada."
+        },
+        {
+          "label": "b",
+          "text": "La zona pluviométrica de promedios y la orientación de la fachada."
+        },
+        {
+          "label": "c",
+          "text": "La zona pluviométrica de promedios y del grado de exposición al viento."
+        },
+        {
+          "label": "d",
+          "text": "El material de la fachada y su inclinación."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 17,
+      "stem": "En el ámbito del documento básico HS del código técnico de la edificación (CTE), el grado de impermeabilidad exigido en las cubiertas es:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Único e independiente de factores climáticos."
+        },
+        {
+          "label": "b",
+          "text": "Único y dependiente de factores climáticos."
+        },
+        {
+          "label": "c",
+          "text": "Dependiente de los factores climáticos."
+        },
+        {
+          "label": "d",
+          "text": "Único, dependiente de los factores climáticos y emisiones."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 18,
+      "stem": "¿Qué se entiende por eflorescencia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "La condensación."
+        },
+        {
+          "label": "b",
+          "text": "El depósito de sales sobre el muro o paramento."
+        },
+        {
+          "label": "c",
+          "text": "La humedad por capilaridad en los muros inferiores."
+        },
+        {
+          "label": "d",
+          "text": "La proliferación de hongos en los paramentos debido a la humedad."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 19,
+      "stem": "Por alicatado se entiende:",
+      "options": [
+        {
+          "label": "a",
+          "text": "El revestimiento de suelos y paredes."
+        },
+        {
+          "label": "b",
+          "text": "El revestimiento de suelos."
+        },
+        {
+          "label": "c",
+          "text": "El revestimiento de paredes."
+        },
+        {
+          "label": "d",
+          "text": "El revestimiento de suelos, paredes y techos."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 20,
+      "stem": "¿Qué tipo de yeso es el más utilizado para enlucidos?:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Yeso blanco."
+        },
+        {
+          "label": "b",
+          "text": "Yeso muerto."
+        },
+        {
+          "label": "c",
+          "text": "Yeso negro."
+        },
+        {
+          "label": "d",
+          "text": "Yeso gris."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 21,
+      "stem": "Para una pasta de yeso con la misma relación agua/yeso, a mayor tiempo de amasado:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Mayor tiempo de fraguado."
+        },
+        {
+          "label": "b",
+          "text": "Menor tiempo de fraguado."
+        },
+        {
+          "label": "c",
+          "text": "No existe diferencia al ser la relación agua/yeso la misma."
+        },
+        {
+          "label": "d",
+          "text": "Depende del tipo de yeso y del agua."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 22,
+      "stem": "En relación con los falsos techos, marca la respuesta correcta:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Un falso techo continuo se puede desmontar."
+        },
+        {
+          "label": "b",
+          "text": "Solo un falso techo desmontable permite la instalación de aire acondicionado."
+        },
+        {
+          "label": "c",
+          "text": "Un falso techo continuo se diferencia de uno desmontable solamente en los materiales utilizados."
+        },
+        {
+          "label": "d",
+          "text": "El falso techo desmontable va suspendido del forjado."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 23,
+      "stem": "¿Cómo se llama el forrado de muros y tabiques tanto en paramentos interiores como en exteriores?:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Encofrado."
+        },
+        {
+          "label": "b",
+          "text": "Revestimiento."
+        },
+        {
+          "label": "c",
+          "text": "Aplacado."
+        },
+        {
+          "label": "d",
+          "text": "Alicatado."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 24,
+      "stem": "En el ámbito de la NTE PPM/1975, el ancho mínimo de la hoja de una puerta de madera de acceso a viviendas es de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "625 mm"
+        },
+        {
+          "label": "b",
+          "text": "725 mm"
+        },
+        {
+          "label": "c",
+          "text": "825 mm"
+        },
+        {
+          "label": "d",
+          "text": "925 mm"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 25,
+      "stem": "Según la NTE PPM/1975, una puerta de madera exterior expuesta se deberá proteger:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Con pintura o barnices para exterior y vierteaguas."
+        },
+        {
+          "label": "b",
+          "text": "No necesita protección si está hecha con maderas duras, solo será necesario vierteaguas."
+        },
+        {
+          "label": "c",
+          "text": "Solamente con el vierteaguas."
+        },
+        {
+          "label": "d",
+          "text": "Con pintura o barnices."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 26,
+      "stem": "La pintura al agua puede estar compuesta por:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Agua, aceite, resinas y pigmentos."
+        },
+        {
+          "label": "b",
+          "text": "Resinas sintéticas, agua y pigmentos."
+        },
+        {
+          "label": "c",
+          "text": "Resinas, aguarrás, agua y pigmentos."
+        },
+        {
+          "label": "d",
+          "text": "Resinas, floculante y pigmentos."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 27,
+      "stem": "El herbicida sistémico debe aplicarse:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Con pulverización muy fina y sin viento."
+        },
+        {
+          "label": "b",
+          "text": "Con pulverización muy fina y con viento."
+        },
+        {
+          "label": "c",
+          "text": "Con pulverización media y ausencia de viento."
+        },
+        {
+          "label": "d",
+          "text": "Con pulverización fuerte y ausencia de viento."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 28,
+      "stem": "Cuando un abono compuesto nos muestra un indicativo como 8-8-8, ¿qué nos está indicando y en qué orden?",
+      "options": [
+        {
+          "label": "a",
+          "text": "El contenido en % de P-N-K."
+        },
+        {
+          "label": "b",
+          "text": "El contenido en % de N-K-P."
+        },
+        {
+          "label": "c",
+          "text": "El contenido en % de K-N-P."
+        },
+        {
+          "label": "d",
+          "text": "El contenido en % de N-P-K."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 29,
+      "stem": "¿Qué gases se utilizan en la soldadura M.I.G.?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Oxígeno y Acetileno."
+        },
+        {
+          "label": "b",
+          "text": "Oxígeno y Carburo."
+        },
+        {
+          "label": "c",
+          "text": "Oxígeno y Butano."
+        },
+        {
+          "label": "d",
+          "text": "Helio y Argón."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 30,
+      "stem": "El corte por llama ¿Qué mezcla de gases utiliza?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Oxígeno-hidrógeno."
+        },
+        {
+          "label": "b",
+          "text": "Oxígeno-acetileno."
+        },
+        {
+          "label": "c",
+          "text": "Oxígeno-dióxido de carbono."
+        },
+        {
+          "label": "d",
+          "text": "Oxígeno-argón."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 31,
+      "stem": "En el ámbito del 0B HS del CTE, señale la afirmación correcta:",
+      "options": [
+        {
+          "label": "a",
+          "text": "El filtro general de la instalación de agua se instalará a continuación de la llave de corte general, en el interior del armario o arqueta, debiendo ser de tipo L."
+        },
+        {
+          "label": "b",
+          "text": "El filtro general de la instalación de agua se instalará antes de la llave de corte general, en el interior del armario o arqueta, debiendo ser de tipo Y."
+        },
+        {
+          "label": "c",
+          "text": "El filtro general de la instalación de agua se instalará a continuación de la llave de corte general, en el interior del armario o arqueta, debiendo ser de tipo Y."
+        },
+        {
+          "label": "d",
+          "text": "El filtro general de la instalación de agua se instalará antes de la llave de corte general, en el interior del armario o arqueta, debiendo ser de tipo L."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 32,
+      "stem": "En fontanería se entiende por machón:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Pieza para unir entre sí dos accesorios macho."
+        },
+        {
+          "label": "b",
+          "text": "Pieza para unir entre sí dos accesorios hembra."
+        },
+        {
+          "label": "c",
+          "text": "Pieza para unir entre sí un accesorio macho y uno hembra."
+        },
+        {
+          "label": "d",
+          "text": "Pieza para unir entre sí cualquier accesorio."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 33,
+      "stem": "Según el DB HS del CTE, indicar el diámetro mínimo del tubo de evacuación de una ducha para uso público:",
+      "options": [
+        {
+          "label": "a",
+          "text": "32 mm."
+        },
+        {
+          "label": "b",
+          "text": "40 mm."
+        },
+        {
+          "label": "c",
+          "text": "50 mm."
+        },
+        {
+          "label": "d",
+          "text": "60 mm."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 34,
+      "stem": "¿Es necesaria la instalación de llaves de corte antes de un grifo de un sanitario?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Nunca."
+        },
+        {
+          "label": "b",
+          "text": "Siempre."
+        },
+        {
+          "label": "c",
+          "text": "Solo en instalaciones de agua caliente."
+        },
+        {
+          "label": "d",
+          "text": "En instalaciones públicas."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 35,
+      "stem": "¿Qué llave de paso se coloca en la entrada de agua en los sanitarios?",
+      "options": [
+        {
+          "label": "a",
+          "text": "De compuerta."
+        },
+        {
+          "label": "b",
+          "text": "De roseta."
+        },
+        {
+          "label": "c",
+          "text": "Normal."
+        },
+        {
+          "label": "d",
+          "text": "De escuadra."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 36,
+      "stem": "Según el Real Decreto 487/2022 sobre legionela, cuando sea de aplicación, la revisión, limpieza y desinfección de los depósitos acumuladores de agua caliente (ACS) se realizará, con carácter general:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cada dos meses."
+        },
+        {
+          "label": "b",
+          "text": "Cada tres meses."
+        },
+        {
+          "label": "c",
+          "text": "Cada 6 meses."
+        },
+        {
+          "label": "d",
+          "text": "Cada 12 meses."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 37,
+      "stem": "El orden del procedimiento de limpieza y desinfección del sistema de agua sanitaria, en relación con la legionela, será:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Secuencial: empezando la limpieza por el depósito, después el acumulador y por último la red y sus puntos terminales, e inmediatamente la desinfección detrás de la limpieza."
+        },
+        {
+          "label": "b",
+          "text": "Secuencial: empezando la limpieza por los puntos terminales y la red, después el acumulador y por último el depósito, e inmediatamente la desinfección detrás de la limpieza."
+        },
+        {
+          "label": "c",
+          "text": "Secuencial: empezando la limpieza por el acumulador, después el depósito y por último la red y sus puntos terminales, e inmediatamente la desinfección detrás de la limpieza."
+        },
+        {
+          "label": "d",
+          "text": "No importa el orden."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 38,
+      "stem": "La función de un purgador en una instalación térmica de calefacción es:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Aliviar la presión del circuito cuando llega a un máximo."
+        },
+        {
+          "label": "b",
+          "text": "Extraer del circuito el aire."
+        },
+        {
+          "label": "c",
+          "text": "Aumentar el rendimiento de la instalación."
+        },
+        {
+          "label": "d",
+          "text": "Mantener el régimen estacionario."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 39,
+      "stem": "El vaso de expansión de una instalación térmica está compuesto de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Conexión, membrana, carcasa, cámara de aire y válvula de llenado."
+        },
+        {
+          "label": "b",
+          "text": "Conexión, membrana, carcasa, cámara de agua, muelle y válvula de llenado."
+        },
+        {
+          "label": "c",
+          "text": "Conexión, membrana, carcasa, cámara de aire, válvula de seguridad y válvula de llenado."
+        },
+        {
+          "label": "d",
+          "text": "Conexión, membrana, carcasa, cámara de aire, cámara de agua y válvula de llenado."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 40,
+      "stem": "¿Qué afirmación es cierta según lo establecido en el RITE en relación con el aire exterior utilizado para ventilación del edificio?",
+      "options": [
+        {
+          "label": "a",
+          "text": "El aire exterior debe ser filtrado siempre que se trate de un edificio público."
+        },
+        {
+          "label": "b",
+          "text": "El aire exterior debe ser filtrado solamente en edificios que estén dentro del casco urbano."
+        },
+        {
+          "label": "c",
+          "text": "El aire exterior ha de ser filtrado antes de entrar en el recinto."
+        },
+        {
+          "label": "d",
+          "text": "El aire exterior no necesita ningún filtro."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+
+      "number": 41,
+      "stem": "¿Cuál de las siguientes respuestas se corresponde con la definición de frigoría?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Unidad de energía, empleada en refrigeración, equivalente al valor negativo de 1 kilocaloría."
+        },
+        {
+          "label": "b",
+          "text": "Unidad de energía, empleada en refrigeración, equivalente al valor negativo de 1 caloría."
+        },
+        {
+          "label": "c",
+          "text": "Unidad de energía, empleada en refrigeración, equivalente al valor de 1 kilocaloría."
+        },
+        {
+          "label": "d",
+          "text": "Unidad de energía, empleada en refrigeración, equivalente al valor de 1 kilocaloría, en circuito directo."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 42,
+      "stem": "Indique los componentes principales de un captador solar plano:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Carcasa, aislamiento, placa absorbente, tubos de fluido y vidrio templado transparente."
+        },
+        {
+          "label": "b",
+          "text": "Carcasa, aislamiento, placa absorbente, lámina y vidrio templado translucido."
+        },
+        {
+          "label": "c",
+          "text": "Carcasa, aislamiento, placa absorbente, tubos de fluido y cristal."
+        },
+        {
+          "label": "d",
+          "text": "Carcasa, aislamiento, placa absorbente, tubos de fluido y disipador."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 43,
+      "stem": "En relación con un captador de tubo de vacío, señale la afirmación correcta:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Es un tubo de vidrio al vacío, en su interior hay una pipeta de cobre por la que circula un fluido que se condensa en la parte inferior y cede su calor a través de un intercambiador al fluido del circuito primario."
+        },
+        {
+          "label": "b",
+          "text": "Es un tubo de vidrio al vacío, en su interior hay una pipeta de cobre por la que circula un fluido que se condensa en la parte superior y cede su calor directamente al fluido del circuito primario."
+        },
+        {
+          "label": "c",
+          "text": "Es un tubo de vidrio al vacío, en su interior hay una pipeta de cobre por la que circula un fluido que se condensa en la parte superior y cede su calor a través de un intercambiador al fluido del circuito primario."
+        },
+        {
+          "label": "d",
+          "text": "Es un tubo de vidrio al vacío, en su interior hay una pipeta de cobre por la que circula un fluido que se condensa en la parte superior y cede su calor a través de un intercambiador al fluido del circuito secundario."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 44,
+      "stem": "En una instalación frigorífica, se entiende por compresor:",
+      "options": [
+        {
+          "label": "a",
+          "text": "El equipo que incrementa mecánicamente la presión y el volumen de un vapor o de un gas refrigerante."
+        },
+        {
+          "label": "b",
+          "text": "El equipo que incrementa mecánicamente la presión de un líquido o de un gas refrigerante."
+        },
+        {
+          "label": "c",
+          "text": "El equipo que incrementa eléctricamente la presión de un vapor o de un gas refrigerante."
+        },
+        {
+          "label": "d",
+          "text": "El equipo que incrementa mecánicamente la presión de un vapor o de un gas refrigerante."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 45,
+      "stem": "En el mantenimiento preventivo de un compresor de aire se debe cambiar una vez al año:",
+      "options": [
+        {
+          "label": "a",
+          "text": "El aceite, los filtros y la correa (si existe)."
+        },
+        {
+          "label": "b",
+          "text": "El aceite, los filtros y las válvulas."
+        },
+        {
+          "label": "c",
+          "text": "Sólo el aceite."
+        },
+        {
+          "label": "d",
+          "text": "Sólo los filtros."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+
+      "number": 46,
+      "stem": "El elemento de un circuito neumático que capta el aire de la atmósfera y le confiere la presión adecuada se llama:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cilindro."
+        },
+        {
+          "label": "b",
+          "text": "Compresor."
+        },
+        {
+          "label": "c",
+          "text": "Válvula."
+        },
+        {
+          "label": "d",
+          "text": "Pistón."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 47,
+      "stem": "Indique cuál de estos gases no es inflamable:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Metano."
+        },
+        {
+          "label": "b",
+          "text": "Hidrógeno."
+        },
+        {
+          "label": "c",
+          "text": "Argón."
+        },
+        {
+          "label": "d",
+          "text": "Propeno."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 48,
+      "stem": "Si una botella de gas tiene el cuerpo de color rojo, la ojiva marrón, y la franja marrón, contiene:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Etano."
+        },
+        {
+          "label": "b",
+          "text": "Hidrógeno."
+        },
+        {
+          "label": "c",
+          "text": "Propano."
+        },
+        {
+          "label": "d",
+          "text": "Acetileno."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 49,
+      "stem": "Indica cuál de estos gases es tóxico o venenoso:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cloro."
+        },
+        {
+          "label": "b",
+          "text": "Monóxido de nitrógeno."
+        },
+        {
+          "label": "c",
+          "text": "Flúor."
+        },
+        {
+          "label": "d",
+          "text": "Acetileno."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 50,
+      "stem": "Un agente extintor de incendios de CLASE A, es adecuado para:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Fuegos de líquidos."
+        },
+        {
+          "label": "b",
+          "text": "Fuegos de materiales sólidos con formación de brasas."
+        },
+        {
+          "label": "c",
+          "text": "Fuegos de metales."
+        },
+        {
+          "label": "d",
+          "text": "Fuegos de ingredientes para cocinar."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+
+      "number": 51,
+      "stem": "La revisión de indicaciones luminosas de alarma, avería, desconexión e información de la central en un sistema de protección activa contra incendios se realizará:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cada mes."
+        },
+        {
+          "label": "b",
+          "text": "Cada tres meses."
+        },
+        {
+          "label": "c",
+          "text": "Cada 6 meses."
+        },
+        {
+          "label": "d",
+          "text": "Anualmente."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 52,
+      "stem": "El reglamento electrotécnico de baja tensión (REBT) es de aplicación para las instalaciones de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Corriente alterna: igual o inferior a 500 voltios."
+        },
+        {
+          "label": "b",
+          "text": "Corriente alterna: igual o inferior a 1.000 voltios."
+        },
+        {
+          "label": "c",
+          "text": "Corriente alterna: igual o inferior a 380 voltios."
+        },
+        {
+          "label": "d",
+          "text": "Corriente continua: igual o inferior a 1.000 voltios."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 53,
+      "stem": "Según el REBT se entiende por contacto directo:",
+      "options": [
+        {
+          "label": "a",
+          "text": "El contacto de personas o animales domésticos con partes que se han puesto bajo tensión como resultado de un fallo de aislamiento."
+        },
+        {
+          "label": "b",
+          "text": "El contacto de personas o animales domésticos con partes que se han puesto bajo tensión como resultado de un fallo general."
+        },
+        {
+          "label": "c",
+          "text": "El contacto de personas o animales con partes activas de los materiales y equipos."
+        },
+        {
+          "label": "d",
+          "text": "El contacto de personas o animales con partes metálicas de los materiales y equipos."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 54,
+      "stem": "En el ámbito del REBT se entiende por interruptor diferencial:",
+      "options": [
+        {
+          "label": "a",
+          "text": "El aparato electromecánico o asociación de aparatos destinados a provocar la apertura de los contactos cuando la corriente diferencial alcanza un valor dado."
+        },
+        {
+          "label": "b",
+          "text": "El aparato electromecánico o asociación de aparatos destinados a provocar la apertura de los contactos cuando la corriente diferencial alcanza 10 mV."
+        },
+        {
+          "label": "c",
+          "text": "El aparato electromecánico o asociación de aparatos destinados a provocar la apertura de los contactos cuando la tensión diferencial alcanza un valor determinado."
+        },
+        {
+          "label": "d",
+          "text": "El aparato electromecánico o asociación de aparatos destinados a provocar el cierre de los contactos cuando la corriente diferencial es excesiva."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 55,
+      "stem": "Se entiende por factor de potencia de un circuito de corriente alterna:",
+      "options": [
+        {
+          "label": "a",
+          "text": "La relación entre la potencia aparente y la activa."
+        },
+        {
+          "label": "b",
+          "text": "La relación entre la potencia reactiva y la aparente."
+        },
+        {
+          "label": "c",
+          "text": "La relación entre la potencia reactiva y la activa."
+        },
+        {
+          "label": "d",
+          "text": "La relación entre las potencias activa y aparente."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+
+      "number": 56,
+      "stem": "Un esquema de distribución TT es el que:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Tiene un punto de la alimentación, generalmente el neutro o compensador, conectado directamente a tierra y las masas de la instalación receptora conectadas a dicho punto mediante conductores de protección."
+        },
+        {
+          "label": "b",
+          "text": "Tiene un punto de la alimentación, generalmente el neutro o compensador, conectado directamente a tierra y las masas de la instalación receptora conectadas a dicho punto mediante conductores de protección. El conductor neutro y el de protección son distintos en todo el esquema."
+        },
+        {
+          "label": "c",
+          "text": "Tiene un punto de alimentación, generalmente el neutro o compensador, conectado directamente a tierra. Las masas de la instalación receptora están conectadas a una toma de tierra separada de la toma de tierra de la alimentación."
+        },
+        {
+          "label": "d",
+          "text": "No tiene ningún punto de la alimentación conectado directamente a tierra. Las masas de la instalación receptora están puestas directamente a tierra."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 57,
+      "stem": "Se entiende por acometida eléctrica:",
+      "options": [
+        {
+          "label": "a",
+          "text": "La parte de la instalación de la red de distribución que alimenta el interruptor general de corte o unidad funcional equivalente."
+        },
+        {
+          "label": "b",
+          "text": "La parte de la instalación de la red de distribución que alimenta la caja o cajas generales de protección o unidad funcional equivalente."
+        },
+        {
+          "label": "c",
+          "text": "La parte de la instalación de la red de distribución que alimenta los magnetotérmicos o unidad funcional equivalente."
+        },
+        {
+          "label": "d",
+          "text": "La parte de la instalación de la red de distribución donde hay una derivación."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 58,
+      "stem": "Por cortocircuito se entiende:",
+      "options": [
+        {
+          "label": "a",
+          "text": "La unión directa de uno o más puntos con diferente tensión."
+        },
+        {
+          "label": "b",
+          "text": "El aumento momentáneo y rápido de la intensidad de un circuito sin defectos."
+        },
+        {
+          "label": "c",
+          "text": "La unión directa de uno o más puntos con diferentes intensidades."
+        },
+        {
+          "label": "d",
+          "text": "Ninguna de las anteriores."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 59,
+      "stem": "Indicar la afirmación correcta teniendo en cuenta lo establecido en el RITE:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Las operaciones de mantenimiento de las instalaciones sujetas al RITE se realizarán por empresas mantenedoras habilitadas."
+        },
+        {
+          "label": "b",
+          "text": "Al hacerse cargo del mantenimiento, el titular de la instalación recibirá del representante de la empresa mantenedora una copia del ‘Manual de Uso y mantenimiento’ de la instalación térmica contenido en el Libro del Edificio."
+        },
+        {
+          "label": "c",
+          "text": "Será obligación del titular del edificio, la actualización y adecuación permanente de la documentación contenida en el ‘Manual de Uso y Mantenimiento’ a las características técnicas de la instalación."
+        },
+        {
+          "label": "d",
+          "text": "El titular de la instalación no podrá realizar con personal de su plantilla el mantenimiento de sus propias instalaciones térmicas, en ningún caso."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 60,
+      "stem": "En el ámbito del CTE, las instalaciones de iluminación de cada zona dispondrán de un sistema de control y regulación que incluya:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Un sistema de encendido y apagado manual externo al cuadro eléctrico y un sistema de encendidos por horario centralizado en cada cuadro eléctrico."
+        },
+        {
+          "label": "b",
+          "text": "Solamente un sistema de encendido y apagado manual externo al cuadro eléctrico."
+        },
+        {
+          "label": "c",
+          "text": "Solamente un sistema de encendidos por horario centralizado en cada cuadro eléctrico."
+        },
+        {
+          "label": "d",
+          "text": "Un sistema de encendido y apagado manual externo al cuadro eléctrico o un sistema de encendidos por horario centralizado en cada cuadro eléctrico."
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+
+      "number": 61,
+      "stem": "Para una calidad mayor, los modelos de proyectores más recientes usan conexión de:",
+      "options": [
+        {
+          "label": "a",
+          "text": "S-VIDEO."
+        },
+        {
+          "label": "b",
+          "text": "VGA."
+        },
+        {
+          "label": "c",
+          "text": "HDMI."
+        },
+        {
+          "label": "d",
+          "text": "Componente RGB."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 62,
+      "stem": "La operación de crimpado consiste en:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cortar cables."
+        },
+        {
+          "label": "b",
+          "text": "Poner terminales."
+        },
+        {
+          "label": "c",
+          "text": "Soldar un conector a una placa de un circuito."
+        },
+        {
+          "label": "d",
+          "text": "Soldar dos cables."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 63,
+      "stem": "¿Qué significa el tercer color de una resistencia?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Número de unos."
+        },
+        {
+          "label": "b",
+          "text": "Número de ceros."
+        },
+        {
+          "label": "c",
+          "text": "Número de ohmios."
+        },
+        {
+          "label": "d",
+          "text": "Número de amperios."
+        }
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "number": 64,
+      "stem": "¿Qué podemos manipular en un condensador variable?",
+      "options": [
+        {
+          "label": "a",
+          "text": "Su valor óhmico."
+        },
+        {
+          "label": "b",
+          "text": "Su capacitancia."
+        },
+        {
+          "label": "c",
+          "text": "Su resistencia."
+        },
+        {
+          "label": "d",
+          "text": "Su intensidad."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 65,
+      "stem": "¿Cuál de los siguientes corresponde a una celda que contiene una fórmula de Microsoft Excel?",
+      "options": [
+        {
+          "label": "a",
+          "text": "=Al:10"
+        },
+        {
+          "label": "b",
+          "text": "=Al+D4"
+        },
+        {
+          "label": "c",
+          "text": "10+25"
+        },
+        {
+          "label": "d",
+          "text": "Todas son correctas."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 66,
+      "stem": "Para gestionar otra cuenta de Windows, se necesita que la sesión actual sea de tipo:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Invitado."
+        },
+        {
+          "label": "b",
+          "text": "Administrador."
+        },
+        {
+          "label": "c",
+          "text": "Cuenta de usuario."
+        },
+        {
+          "label": "d",
+          "text": "Estándar."
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 67,
+      "stem": "Marca la escala que sea de reducción en un plano:",
+      "options": [
+        {
+          "label": "a",
+          "text": "5:1"
+        },
+        {
+          "label": "b",
+          "text": "10:9"
+        },
+        {
+          "label": "c",
+          "text": "7.3"
+        },
+        {
+          "label": "d",
+          "text": "1:10"
+        }
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "number": 68,
+      "stem": "El símbolo corresponde a:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Resistencia variable."
+        },
+        {
+          "label": "b",
+          "text": "Voltaje variable."
+        },
+        {
+          "label": "c",
+          "text": "Resistencia emisiva."
+        },
+        {
+          "label": "d",
+          "text": "Termistor."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 69,
+      "stem": "Las cajas generales de protección eléctricas se instalarán en:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Preferentemente sobre las fachadas exteriores de los edificios, en lugares de libre y permanente acceso. Su situación se fijará de común acuerdo entre la propiedad y la empresa suministradora."
+        },
+        {
+          "label": "b",
+          "text": "Preferentemente sobre las fachadas interiores de los edificios, en lugares de libre y permanente acceso. Su situación se fijará de común acuerdo entre la propiedad y la empresa suministradora."
+        },
+        {
+          "label": "c",
+          "text": "Preferentemente sobre las fachadas exteriores de los edificios, en lugares de acceso restringido. Su situación se fijará de común acuerdo entre la propiedad y la empresa suministradora."
+        },
+        {
+          "label": "d",
+          "text": "Preferentemente sobre las fachadas interiores de los edificios, en lugares de acceso restringido. Su situación se fijará de común acuerdo entre la propiedad y la empresa suministradora."
+        }
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "number": 70,
+      "stem": "Según el Real Decreto 487/2022 sobre legionela, cuando sea de aplicación, la revisión, limpieza y desinfección de los depósitos acumuladores de agua fría se realizará, con carácter general:",
+      "options": [
+        {
+          "label": "a",
+          "text": "Cada 2 meses."
+        },
+        {
+          "label": "b",
+          "text": "Cada 3 meses."
+        },
+        {
+          "label": "c",
+          "text": "Cada 6 meses."
+        },
+        {
+          "label": "d",
+          "text": "Cada 12 meses."
+        }
+      ],
+      "correct_answer": "b"
+    }
+  ]
+}
